@@ -1,4 +1,4 @@
 # scripts
-all scripts are from unknown owners. this is under fair use
+all scripts are from unknown owners. this is licensed as fair use
 
 Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
